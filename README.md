@@ -1,7 +1,7 @@
 # Morse-Code-Translator
 
 Aaditya Suri 41935511
-Arduino program to convert alphanumeric text input for user into morse code using blinking of an LED
+Arduino program to convert alphanumeric text input into the serial monitor by the user into morse code using blinking an LED to denote different characters as defined by a convention (see link below)
 
 Video attached shows the Morse Code Translation of "UBC engineering 2024" on the circuit board
 
